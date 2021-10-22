@@ -206,11 +206,11 @@
 }
 
 /* contact  */
-.contact_{
-    filter: drop-shadow(2px 0px 8px rgba(0, 0, 0, 0.5));
-}
+
 .contact{
     margin-left: 150px;
+    margin-bottom:50px
+    filter: drop-shadow(2px 0px 8px rgba(0, 0, 0, 0.5));
 }
 .contact p{
     color: #0fa6e2;
